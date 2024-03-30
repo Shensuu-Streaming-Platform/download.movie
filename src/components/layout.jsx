@@ -17,9 +17,9 @@ export default function Layout({ children }) {
             className="font-semibold"
             target="_blank"
             rel="noopener"
-            href="https://github.com/tuhinpal"
+            href="https://github.com/Shensuu-Streaming-Platform"
           >
-            Tuhin
+            Shensuu Streaming Platform
           </a>{" "}
           with{" "}
           <a
@@ -33,7 +33,7 @@ export default function Layout({ children }) {
         </p>
         <div className="flex items-center gap-2 mt-2">
           <a
-            href="https://github.com/tuhinpal/hls-downloader/"
+            href="https://github.com/Shensuu-Streaming-Platform/download.movie"
             target="_blank"
             rel="noopener"
           >
@@ -47,7 +47,7 @@ export default function Layout({ children }) {
             </svg>
           </a>
 
-          <a
+          {/*   <a
             href="https://www.producthunt.com/posts/hls-downloader-1?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hls-downloader-1"
             target="_blank"
             rel="noopener"
@@ -67,7 +67,7 @@ export default function Layout({ children }) {
                 fill="#fff"
               />
             </svg>
-          </a>
+          </a> */}
         </div>
       </footer>
     </>
